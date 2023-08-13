@@ -29,7 +29,7 @@ public class BlogAppApiApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		
-		System.out.println(this.pEncoder.encode("xyz"));
+//		System.out.println(this.pEncoder.encode("xyz"));
 		
 	}
 	
